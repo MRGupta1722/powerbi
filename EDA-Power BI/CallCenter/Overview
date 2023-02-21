@@ -1,0 +1,9 @@
+Within the Callcenter directory, you can find the dataset xlsx file of the callcenter data Provided by #PwC Switzerland through #forage.
+
+   The requirements for report creation related to the provided dataset were:
+      1. Overall customer satisfaction
+      2. Overall calls answered/abandoned
+      3. Calls by time
+      4. Average Speed of answer
+      5. Agent's performance Quadrant
+Report based on the above requirements here.
